@@ -26,3 +26,6 @@ jane,eleven
 ```
 
 IMPORTANT NOTE: If you are running the bash script (Linux or Mac) the `class_info.txt` file MUST end with either a blank line or something else or the last line of the file will not be read. For that reason, I recommend putting a `$$` as the last line of the file. You'll notice that I did that for the example file in the /unix folder.
+
+## Other Notes
+Since the student repos are most likely private (though your user will have access) you'll need to configure GitHub SSH keys for your computer. Instructions on doing that can be found [here](https://help.github.com/articles/connecting-to-github-with-ssh/). 
