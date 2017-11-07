@@ -2,7 +2,7 @@
 
 ## What?
 This repo contains a few small scripts for easily managing student forks of a main classroom repo.
-There are two folders in this project, a folder for Windows and one for Unix (Linux or Mac). The Windows scripts are written in bash and Unix scripts in bash.
+There are two folders in this project, a folder for Windows and one for Unix (Linux or Mac). The Windows scripts are written in batch and Unix scripts in bash.
 
 ## How?
 1. Create a folder on your hard drive where you will clone all of the repos.
