@@ -1,0 +1,3 @@
+REPO_NAME
+folderName1,userName1
+folderName2,userName2
